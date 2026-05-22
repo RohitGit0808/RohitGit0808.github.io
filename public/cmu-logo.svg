@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <rect width="120" height="120" fill="#c41230"/>
+  <text x="60" y="38" font-family="Georgia, 'Times New Roman', serif" font-size="15.5" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="0.5">Carnegie</text>
+  <text x="60" y="62" font-family="Georgia, 'Times New Roman', serif" font-size="15.5" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="0.5">Mellon</text>
+  <text x="60" y="86" font-family="Georgia, 'Times New Roman', serif" font-size="15.5" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="0.5">University</text>
+</svg>
